@@ -13,9 +13,10 @@
 </p>
 
 ---
-<p align="center">
-## Connect With Me
-</p>
+
+<h2> <p align="center">
+Connect With Me
+</p> <h2/>
 <p align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
