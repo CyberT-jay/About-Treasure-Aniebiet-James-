@@ -1,4 +1,4 @@
-# About-Treasure-Aniebiet-James-
+
 
 <!-- ========================= -->
 <!--        HERO HEADER       -->
@@ -9,7 +9,7 @@
 <h3 align="center"> Cybersecurity Analyst | Offensive Security | Penetration Testing | DevOps track | Fulstack Dev in learning </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=Offensive+Security+%7C+Red+Team+Mindset;Penetration+Testing+%7C+Ethical+Hacking;DenOps+Learning+Path+%7C+Web+Dev+Learning+Path+%7C+Hands-on+Labs;Building+real+skills+through+practice.+I+am+cybertjay." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=Offensive+Security+%7C+Red+Team+Mindset;Penetration+Testing+%7C+Ethical+Hacking;DenOps+Learning+Path+%7C+Web+Dev+Learning+Path+%7C+Hands-on+Labs;Building+real+skills+through+practice.+I+am+CyberT-jay,+Welcome to my portfolio++++" />
 </p>
 
 ---
