@@ -47,6 +47,12 @@ My learning approach is hands-on, lab-driven, and focused on real-world attack s
 
 ---
 
+Practice Platforms
+<p align="center">
+
+
+</p>
+
 ## 🧩 Methodology
 
 ```bash id="methodology_full"
