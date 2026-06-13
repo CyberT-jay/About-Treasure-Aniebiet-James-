@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 I specialize in **Offensive Security and Penetration Testing**, focusing on understanding how systems are attacked in order to better secure them.
 
@@ -22,7 +22,7 @@ My learning approach is hands-on, lab-driven, and focused on real-world attack s
 
 ---
 
-## 🎯 Focus Areas
+## Focus Areas
 
 - Networking fundamentals (TCP/IP, DNS, HTTP)
 - Web application security (OWASP Top 10)
@@ -33,7 +33,7 @@ My learning approach is hands-on, lab-driven, and focused on real-world attack s
 
 ---
 
-## ⚔️ Tools & Technologies
+## Tools & Technologies
 
 <p align="center">
 
