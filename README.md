@@ -53,6 +53,11 @@ My learning approach is hands-on, lab-driven, and focused on real-world attack s
 
 </p>
 
+---
+
+## GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="180"/> </p>
+
 ## 🧩 Methodology
 
 ```bash id="methodology_full"
