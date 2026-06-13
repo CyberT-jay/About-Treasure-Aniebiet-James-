@@ -33,6 +33,9 @@ My learning approach is hands-on, lab-driven, and focused on real-world attack s
 
 ---
 
+## Connect With Me
+<p align="center"> <a href="https://github.com/YOUR_GITHUB_USERNAME"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:your-email@example.com"> <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+
 ## Tools & Technologies
 
 <p align="center">
@@ -54,6 +57,9 @@ My learning approach is hands-on, lab-driven, and focused on real-world attack s
 </p>
 
 ---
+
+## Quote
+<p align="center"> <b>"Security is not learned by watching — it is learned by breaking and rebuilding."</b> </p> ```
 
 ## GitHub Analytics
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="180"/> </p>
