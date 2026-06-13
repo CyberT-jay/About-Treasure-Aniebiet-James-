@@ -4,7 +4,7 @@
 <!--        HERO HEADER       -->
 <!-- ========================= -->
 
-<h1 align="center">🟥 Treasure James</h1>
+<h1 align="center">🟥 Treasure Aniebiet James</h1>
 
 <h3 align="center"> Cybersecurity Analyst | Offensive Security | Penetration Testing | DevOps track | Fulstack Dev in learning </h3>
 
