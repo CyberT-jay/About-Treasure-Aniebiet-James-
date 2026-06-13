@@ -6,7 +6,7 @@
 
 <h1 align="center">🟥 Treasure James</h1>
 
-<h3 align="center">Offensive Security | Penetration Testing | OSCP Track</h3>
+<h3 align="center"> Cybersecurity Analyst | Offensive Security | Penetration Testing | DevOps track | Fulstack Dev in learning </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=Offensive+Security+%7C+Red+Team+Mindset;Penetration+Testing+%7C+Ethical+Hacking;OSCP+Learning+Path+%7C+Hands-on+Labs;Building+real+skills+through+practice" />
