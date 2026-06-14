@@ -5,12 +5,12 @@
 <h1 align="center">🟥 Treasure Aniebiet James</h1>
 
 <h3 align="center">
-Cybersecurity Engineering | Offensive Security | Penetration Testing |
-DevOps Learning Path | Full Stack Development Learning Path
+Cybersecurity Analyst | Offensive Security | Penetration Testing |
+DevSecOps Learning Path | Full Stack Development Learning Path
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=850&lines=Offensive+Security+%7C+Red+Team+Mindset;Penetration+Testing+%7C+Ethical+Hacking;DevOps+Learning+Path+%7C+Full+Stack+Development;Hands-on+Labs+%7C+CTFs+%7C+Continuous+Learning;Building+Real+Skills+Through+Practice;Welcome+to+CyberT-Jay's+Portfolio+🤝" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=850&lines=Offensive+Security+%7C+Red+Team+Mindset;Penetration+Testing+%7C+Ethical+Hacking;DevSecOps+Learning+Path+%7C+Full+Stack+Development;Hands-on+Labs+%7C+CTFs+%7C+Continuous+Learning;Building+Real+Skills+Through+Practice;Welcome+to+CyberT-Jay's+Portfolio+🤝" />
 </p>
 
 ---
@@ -83,11 +83,13 @@ I am committed to building secure systems, contributing to the cybersecurity com
 
 🔴 Penetration Testing
 
+🔴 Network Security
+
 🔴 Web Application Security
 
 🔴 Vulnerability Assessment
 
-🔴 Network Security
+🔴 Malware Assessment
 
 🔴 Linux Administration
 
@@ -95,7 +97,7 @@ I am committed to building secure systems, contributing to the cybersecurity com
 
 🔴 Git & GitHub
 
-🔴 DevOps Fundamentals
+🔴 DevSecOps Fundamentals
 
 🔴 Full Stack Development (Learning)
 
@@ -169,6 +171,8 @@ HND in Computer Science - Heritage Polytechnic, Nigeria
 <p align="center">
 
 🔴 Offensive Security
+
+🔴 Network Penetration Testing 
 
 🔴 Web Application Penetration Testing
 
