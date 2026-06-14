@@ -90,19 +90,6 @@ Practice Platforms
 <a href="https://portswigger.net/web-security">
 <img src="https://img.shields.io/badge/PortSwigger-Web%20Security%20Academy-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 </a>
-
-<a href="https://picoctf.org/">
-<img src="https://img.shields.io/badge/picoCTF-2E8B57?style=for-the-badge&logo=hackaday&logoColor=white"/>
-</a>
-
-<a href="https://overthewire.org/wargames/">
-<img src="https://img.shields.io/badge/OverTheWire-Wargames-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-</a>
-
-<a href="https://academy.tcm-sec.com/">
-<img src="https://img.shields.io/badge/TCM%20Security-Academy-0F172A?style=for-the-badge&logo=academia&logoColor=white"/>
-</a>
-
 </p>
 
 ---
