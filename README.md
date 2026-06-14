@@ -71,84 +71,45 @@ My learning approach is hands-on, lab-driven, and focused on real-world attack s
 
 ---
 
-<title>Practice Platforms</title>
+<!-- ========================= -->
+<!-- Practice Platforms -->
+<!-- ========================= -->
 
-<p>
-I continuously sharpen my offensive security skills through hands-on labs,
-real-world challenges, and web application exploitation environments.
+<h2 align="center">Practice Platforms</h2>
+
+<p align="center">
+
+  <a href="https://tryhackme.com">
+    <img src="https://cdn.simpleicons.org/tryhackme/212C42"
+         alt="TryHackMe"
+         width="180"/>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.hackthebox.com">
+    <img src="https://cdn.simpleicons.org/hackthebox/9FEF00"
+         alt="Hack The Box"
+         width="180"/>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://portswigger.net/web-security">
+    <img src="https://cdn.simpleicons.org/burpsuite/FF6633"
+         alt="PortSwigger Web Security Academy"
+         width="180"/>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.netacad.com">
+    <img src="https://cdn.simpleicons.org/cisco/1BA0D7"
+         alt="Cisco Networking Academy"
+         width="180"/>
+  </a>
+
 </p>
-
-<div class="cards">
-
-<div class="card">
-
-<img src="images/tryhackme.jpg" alt="TryHackMe">
-
-<div class="content">
-
-<h2>TryHackMe</h2>
-
-<p>
-Interactive learning paths covering networking, Linux, Windows,
-Active Directory, web security, privilege escalation,
-and penetration testing.
-</p>
-
-<a href="https://tryhackme.com" class="btn" target="_blank">
-Visit Platform
-</a>
-
-</div>
-
-</div>
-
-<div class="card">
-
-<img src="images/hackthebox.jpg" alt="Hack The Box">
-
-<div class="content">
-
-<h2>Hack The Box</h2>
-
-<p>
-Advanced penetration testing labs designed to simulate
-real enterprise environments and improve offensive
-security skills.
-</p>
-
-<a href="https://hackthebox.com" class="btn" target="_blank">
-Visit Platform
-</a>
-
-</div>
-
-</div>
-
-<div class="card">
-
-<img src="images/portswigger.jpg" alt="PortSwigger">
-
-<div class="content">
-
-<h2>PortSwigger Web Security Academy</h2>
-
-<p>
-Hands-on web application security labs covering XSS,
-SQL Injection, SSRF, CSRF, authentication flaws,
-and business logic vulnerabilities.
-</p>
-
-<a href="https://portswigger.net/web-security" class="btn" target="_blank">
-Visit Platform
-</a>
-
-</div>
-
-</div>
-
-</div>
-
-</section>
 
 ---
 
