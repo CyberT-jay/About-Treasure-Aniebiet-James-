@@ -14,6 +14,7 @@ DevOps Learning Path | Full Stack Development Learning Path
 </p>
 
 ---
+---
 
 <h2 align="center">About Me</h2>
 
@@ -41,6 +42,7 @@ I am committed to building secure systems, contributing to the cybersecurity com
 </p>
 
 ---
+---
 
 <h2 align="center">Connect With Me</h2>
 
@@ -64,6 +66,8 @@ I am committed to building secure systems, contributing to the cybersecurity com
 
 </p>
 
+---
+---
 ---
 
 <h2 align="center">Skills</h2>
@@ -97,6 +101,7 @@ I am committed to building secure systems, contributing to the cybersecurity com
 </p>
 
 ---
+---
 
 <h2 align="center">Certifications</h2>
 
@@ -107,6 +112,7 @@ I am committed to building secure systems, contributing to the cybersecurity com
 </p>
 
 ---
+---
 
 <h2 align="center">Education</h2>
 
@@ -116,6 +122,7 @@ HND in Computer Science - Heritage Polytechnic, Nigeria
 
 </p>
 
+---
 ---
 
 <h2 align="center">Practice Platforms</h2>
@@ -141,6 +148,7 @@ HND in Computer Science - Heritage Polytechnic, Nigeria
 </p>
 
 ---
+---
 
 <h2 align="center">Featured Projects</h2>
 
@@ -152,6 +160,7 @@ HND in Computer Science - Heritage Polytechnic, Nigeria
 | 🔴 Python Security Scripts | Automation for cybersecurity tasks |
 | 🔴 DevOps Security Projects | CI/CD security and container hardening |
 
+---
 ---
 
 <h2 align="center">Current Focus</h2>
@@ -175,19 +184,20 @@ HND in Computer Science - Heritage Polytechnic, Nigeria
 </p>
 
 ---
+---
 
-<p align="center"> <h2>Quote<h2/>
-  <b>"Security is not learned by watching, it is learned by breaking and rebuilding."</b> </p>
-
-
+<h2/><p align="center">My Belief<h2/>
 <p align="center">
+  "Security is not learned by watching, it is learned by breaking and rebuilding."
 
-<i>"Not a one time thing, but a continuous process of learning, testing, and improving."</i>
+<small>"Not a one time thing, but a continuous process of learning, testing, and improving."<small/>
 <p/>
 
+---
 ---
 
 <p align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+Thanks for visiting my profile!
+<p/>
 
