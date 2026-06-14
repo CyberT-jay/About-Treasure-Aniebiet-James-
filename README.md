@@ -1,5 +1,3 @@
-
-
 <!-- ========================= -->
 <!--        HERO HEADER       -->
 <!-- ========================= -->
@@ -65,26 +63,23 @@ My learning approach is hands-on, lab-driven, and focused on real-world attack s
 
 - Networking fundamentals (TCP/IP, DNS, HTTP)
 - Web application security (OWASP Top 10)
-- Linux system administration
+- Cloud security 
+- Linux system administration(kali Linux, Ubuntu and Parrot os)
+- Malware analysis 
 - Vulnerability analysis & exploitation
 - Privilege escalation (Linux & Windows)
-- OSCP preparation path
 
 ---
 
-## Practice Platforms
 <p align="center">
 
-
+# Practice Platforms
 </p>
 
 ---
 
-## Quote
-<p align="center"> <b>"Security is not learned by watching — it is learned by breaking and rebuilding."</b> </p> ```
-
-## GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="180"/> </p>
+<p align="center">  <h2>GitHub Analytics<h2/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="180"/> </p>
 
 ---
 
@@ -103,15 +98,14 @@ My learning approach is hands-on, lab-driven, and focused on real-world attack s
 
 ---
 
-## Practice Platforms
-<p align="center">
+<p align="center"> <h2>Practice Platforms<h2/>
 
 
 </p>
 
 ---
 
-## Quote
-<p align="center"> <b>"Security is not learned by watching — it is learned by breaking and rebuilding."</b> </p> ```
+<p align="center"> <h2>Quote<h2/>
+  <b>"Security is not learned by watching — it is learned by breaking and rebuilding."</b> </p>
 
 
