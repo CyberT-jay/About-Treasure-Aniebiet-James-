@@ -187,13 +187,13 @@ HND in Computer Science - Heritage Polytechnic, Nigeria
 ---
 ---
 
-<p align="center">My Belief<p align="center">Security is not learned by watching, it is learned by breaking and rebuilding.
+<p align="center">Security is not learned by watching, it is learned by breaking and rebuilding.
 Not a one time thing, but a continuous process of learning, testing, and improving.
 <p/>
 
 ---
 ---
 
-<p align="center">Thanks for visiting my profile!
+<p align="center">Thanks for visiting my profile! ©CyberT-jay 2026
 <p/>
 
