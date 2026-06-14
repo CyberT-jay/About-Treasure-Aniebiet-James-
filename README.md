@@ -68,9 +68,7 @@ I am committed to building secure systems, contributing to the cybersecurity com
 
 ---
 ---
----
----
----
+
 <h2 align="center">Skills</h2>
 
 <p align="center">
