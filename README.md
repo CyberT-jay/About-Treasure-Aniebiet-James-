@@ -2,7 +2,9 @@
 <!--                CYBERT-JAY GITHUB PROFILE           -->
 <!-- ================================================= -->
 
-<h1 align="center">🟥 Treasure Aniebiet James</h1>
+<h1 align="center">Treasure Aniebiet James</h1>
+
+<h1 align="center">🟥</h1>
 
 <h3 align="center">
 Cybersecurity Analyst | Offensive Security | Penetration Testing |
