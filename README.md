@@ -17,7 +17,7 @@ DevOps Learning Path | Full Stack Development Learning Path
 
 <h2 align="center">About Me</h2>
 
-<p align="center">
+<p>
 I am a Cybersecurity Analyst with a strong interest in Offensive Security, Penetration Testing, and Security Operations. I enjoy identifying vulnerabilities, analyzing threats, and continuously developing practical skills through hands-on labs and real-world projects.
 
 My career journey has been diverse and has shaped my analytical thinking, leadership, and problem-solving abilities.
