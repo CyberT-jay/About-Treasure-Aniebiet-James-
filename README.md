@@ -71,43 +71,37 @@ My learning approach is hands-on, lab-driven, and focused on real-world attack s
 
 ---
 
-<!-- ========================= -->
-<!-- Practice Platforms -->
-<!-- ========================= -->
-
-<h2 align="center">Practice Platforms</h2>
+<h2>
+<p align="center">
+Practice Platforms
+</p>
+</h2>
 
 <p align="center">
 
-  <a href="https://tryhackme.com">
-    <img src="https://cdn.simpleicons.org/tryhackme/212C42"
-         alt="TryHackMe"
-         width="180"/>
-  </a>
+<a href="https://tryhackme.com/p/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
+</a>
 
-  &nbsp;&nbsp;&nbsp;
+<a href="https://app.hackthebox.com/profile/YOUR_USER_ID">
+<img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+</a>
 
-  <a href="https://www.hackthebox.com">
-    <img src="https://cdn.simpleicons.org/hackthebox/9FEF00"
-         alt="Hack The Box"
-         width="180"/>
-  </a>
+<a href="https://portswigger.net/web-security">
+<img src="https://img.shields.io/badge/PortSwigger-Web%20Security%20Academy-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+</a>
 
-  &nbsp;&nbsp;&nbsp;
+<a href="https://picoctf.org/">
+<img src="https://img.shields.io/badge/picoCTF-2E8B57?style=for-the-badge&logo=hackaday&logoColor=white"/>
+</a>
 
-  <a href="https://portswigger.net/web-security">
-    <img src="https://cdn.simpleicons.org/burpsuite/FF6633"
-         alt="PortSwigger Web Security Academy"
-         width="180"/>
-  </a>
+<a href="https://overthewire.org/wargames/">
+<img src="https://img.shields.io/badge/OverTheWire-Wargames-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+</a>
 
-  &nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.netacad.com">
-    <img src="https://cdn.simpleicons.org/cisco/1BA0D7"
-         alt="Cisco Networking Academy"
-         width="180"/>
-  </a>
+<a href="https://academy.tcm-sec.com/">
+<img src="https://img.shields.io/badge/TCM%20Security-Academy-0F172A?style=for-the-badge&logo=academia&logoColor=white"/>
+</a>
 
 </p>
 
