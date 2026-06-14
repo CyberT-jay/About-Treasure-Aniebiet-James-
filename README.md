@@ -15,7 +15,7 @@ DevOps Learning Path | Full Stack Development Learning Path
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
 
@@ -30,7 +30,7 @@ Full Stack Development to better understand modern application security.
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
 
@@ -54,7 +54,7 @@ Full Stack Development to better understand modern application security.
 
 ---
 
-<h2 align="center">🛠 Skills</h2>
+<h2 align="center">Skills</h2>
 
 <p align="center">
 
@@ -86,31 +86,27 @@ Full Stack Development to better understand modern application security.
 
 ---
 
-<h2 align="center">🏆 Certifications</h2>
+<h2 align="center">Certifications</h2>
 
 <p align="center">
 
-🥇 Ethical Hacker Certificate
-
-🥇 Cisco Networking Academy
+🥇 Ethical Hacker Certificate - Cisco Networking Academy
 
 </p>
 
 ---
 
-<h2 align="center">🎓 Education</h2>
+<h2 align="center">Education</h2>
 
 <p align="center">
 
-Bachelor's Degree in Computer Science
-
-Heritage Polytechnic, Nigeria
+HND in Computer Science - Heritage Polytechnic, Nigeria
 
 </p>
 
 ---
 
-<h2 align="center">🚀 Practice Platforms</h2>
+<h2 align="center">Practice Platforms</h2>
 
 <p align="center">
 
@@ -134,7 +130,7 @@ Heritage Polytechnic, Nigeria
 
 ---
 
-<h2 align="center">💼 Featured Projects</h2>
+<h2 align="center">Featured Projects</h2>
 
 | Project | Description |
 |------------|--------------------------------|
@@ -146,29 +142,7 @@ Heritage Polytechnic, Nigeria
 
 ---
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-<h2 align="center">🎯 Current Focus</h2>
+<h2 align="center">Current Focus</h2>
 
 <p align="center">
 
@@ -176,9 +150,9 @@ Heritage Polytechnic, Nigeria
 
 🔴 Web Application Penetration Testing
 
-🔴 Active Directory Security
+🔴 Cloud Penetration Testing
 
-🔴 Bug Bounty Hunting
+🔴 Active Directory Security
 
 🔴 DevSecOps
 
@@ -190,35 +164,18 @@ Heritage Polytechnic, Nigeria
 
 ---
 
-<h2 align="center">💡 Motto</h2>
+<p align="center"> <h2>Quote<h2/>
+  <b>"Security is not learned by watching, it is learned by breaking and rebuilding."</b> </p>
+
 
 <p align="center">
 
-<i>"Security is not a product, but a continuous process of learning, testing, and improving."</i>
-
-</p>
+<i>"Not a one time thing, but a continuous process of learning, testing, and improving."</i>
+<p/>
 
 ---
 
 <p align="center">
 
 ⭐ Thanks for visiting my profile! ⭐
-
-</p>![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge)
-
-</p>
-
----
-
-<p align="center"> <h2>Practice Platforms<h2/>
-
-
-</p>
-
----
-
-<p align="center"> <h2>Quote<h2/>
-  <b>"Security is not learned by watching — it is learned by breaking and rebuilding."</b> </p>
-
 
