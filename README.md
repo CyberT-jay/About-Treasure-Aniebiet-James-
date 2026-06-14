@@ -71,10 +71,178 @@ My learning approach is hands-on, lab-driven, and focused on real-world attack s
 
 ---
 
-<p align="center">
+<title>Practice Platforms</title>
 
-# Practice Platforms
+<style>
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+body{
+    background:#0d1117;
+    color:#fff;
+}
+
+.section{
+    max-width:1200px;
+    margin:auto;
+    padding:60px 20px;
+}
+
+.section h1{
+    text-align:center;
+    font-size:40px;
+    margin-bottom:15px;
+}
+
+.section p{
+    text-align:center;
+    color:#b3b3b3;
+    margin-bottom:40px;
+}
+
+.cards{
+    display:grid;
+    grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+    gap:30px;
+}
+
+.card{
+    background:#161b22;
+    border:1px solid #30363d;
+    border-radius:15px;
+    overflow:hidden;
+    transition:.3s;
+}
+
+.card:hover{
+    transform:translateY(-8px);
+    box-shadow:0 10px 25px rgba(0,255,150,.2);
+}
+
+.card img{
+    width:100%;
+    height:180px;
+    object-fit:cover;
+}
+
+.content{
+    padding:20px;
+}
+
+.content h2{
+    margin-bottom:10px;
+}
+
+.content p{
+    text-align:left;
+    color:#c9d1d9;
+    line-height:1.6;
+    margin-bottom:20px;
+}
+
+.btn{
+    display:inline-block;
+    text-decoration:none;
+    background:#00ff99;
+    color:#000;
+    padding:10px 20px;
+    border-radius:8px;
+    font-weight:bold;
+}
+
+.btn:hover{
+    background:#00cc7a;
+}
+</style>
+
+</head>
+
+<body>
+
+<section class="section">
+
+<h1>Cybersecurity Practice Platforms</h1>
+
+<p>
+I continuously sharpen my offensive security skills through hands-on labs,
+real-world challenges, and web application exploitation environments.
 </p>
+
+<div class="cards">
+
+<div class="card">
+
+<img src="images/tryhackme.jpg" alt="TryHackMe">
+
+<div class="content">
+
+<h2>TryHackMe</h2>
+
+<p>
+Interactive learning paths covering networking, Linux, Windows,
+Active Directory, web security, privilege escalation,
+and penetration testing.
+</p>
+
+<a href="https://tryhackme.com" class="btn" target="_blank">
+Visit Platform
+</a>
+
+</div>
+
+</div>
+
+<div class="card">
+
+<img src="images/hackthebox.jpg" alt="Hack The Box">
+
+<div class="content">
+
+<h2>Hack The Box</h2>
+
+<p>
+Advanced penetration testing labs designed to simulate
+real enterprise environments and improve offensive
+security skills.
+</p>
+
+<a href="https://hackthebox.com" class="btn" target="_blank">
+Visit Platform
+</a>
+
+</div>
+
+</div>
+
+<div class="card">
+
+<img src="images/portswigger.jpg" alt="PortSwigger">
+
+<div class="content">
+
+<h2>PortSwigger Web Security Academy</h2>
+
+<p>
+Hands-on web application security labs covering XSS,
+SQL Injection, SSRF, CSRF, authentication flaws,
+and business logic vulnerabilities.
+</p>
+
+<a href="https://portswigger.net/web-security" class="btn" target="_blank">
+Visit Platform
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
 
 ---
 
