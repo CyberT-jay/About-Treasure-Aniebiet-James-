@@ -1,20 +1,37 @@
-<!-- ========================= -->
-<!--        HERO HEADER       -->
-<!-- ========================= -->
+<!-- ================================================= -->
+<!--                CYBERT-JAY GITHUB PROFILE           -->
+<!-- ================================================= -->
 
 <h1 align="center">🟥 Treasure Aniebiet James</h1>
 
-<h3 align="center"> Cybersecurity Analyst | Offensive Security | Penetration Testing | DevOps track | Fulstack Dev in learning </h3>
+<h3 align="center">
+Cybersecurity Analyst | Offensive Security | Penetration Testing |
+DevOps Learning Path | Full Stack Development Learning Path
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=Offensive+Security+%7C+Red+Team+Mindset;Penetration+Testing+%7C+Ethical+Hacking;DenOps+Learning+Path+%7C+Web+Dev+Learning+Path+%7C+Hands-on+Labs;Building+real+skills+through+practice.+I+am+CyberT-jay,+Welcome+to+my+portfolio+🤝" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=850&lines=Offensive+Security+%7C+Red+Team+Mindset;Penetration+Testing+%7C+Ethical+Hacking;DevOps+Learning+Path+%7C+Full+Stack+Development;Hands-on+Labs+%7C+CTFs+%7C+Continuous+Learning;Building+Real+Skills+Through+Practice;Welcome+to+CyberT-Jay's+Portfolio+🤝" />
 </p>
 
 ---
 
-<h2> <p align="center">
-Connect With Me
-</p> <h2/>
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+
+Cybersecurity enthusiast with a strong passion for Offensive Security,
+Penetration Testing, and Ethical Hacking.
+
+Currently expanding my expertise through hands-on labs, Capture The Flag
+challenges, and real-world projects while also learning DevOps and
+Full Stack Development to better understand modern application security.
+
+</p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
 <p align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
@@ -22,7 +39,7 @@ Connect With Me
 </a>
 
 <a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
@@ -33,81 +50,161 @@ Connect With Me
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://wa.me/YOUR_COUNTRYCODE_AND_NUMBER">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
-
-<a href="https://t.me/YOUR_TELEGRAM_USERNAME">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="https://discord.gg/YOUR_INVITE_CODE">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-
 </p>
-
-## About Me
-
-I specialize in **Offensive Security and Penetration Testing**, focusing on understanding how systems are attacked in order to better secure them.
-
-My learning approach is hands-on, lab-driven, and focused on real-world attack scenarios.
 
 ---
 
-## Focus Areas
+<h2 align="center">🛠 Skills</h2>
 
-- Networking fundamentals (TCP/IP, DNS, HTTP)
-- Web application security (OWASP Top 10)
-- Cloud security 
-- Linux system administration(kali Linux, Ubuntu and Parrot os)
-- Malware analysis 
-- Vulnerability analysis & exploitation
-- Privilege escalation (Linux & Windows)
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python,html,css,javascript,git,github,vscode,docker"/>
+
+</p>
+
+<p align="center">
+
+🔴 Penetration Testing
+
+🔴 Web Application Security
+
+🔴 Vulnerability Assessment
+
+🔴 Network Security
+
+🔴 Linux Administration
+
+🔴 Python Scripting
+
+🔴 Git & GitHub
+
+🔴 DevOps Fundamentals
+
+🔴 Full Stack Development (Learning)
+
+</p>
 
 ---
 
-<h2>
+<h2 align="center">🏆 Certifications</h2>
+
 <p align="center">
-Practice Platforms
+
+🥇 Ethical Hacker Certificate
+
+🥇 Cisco Networking Academy
+
 </p>
-</h2>
+
+---
+
+<h2 align="center">🎓 Education</h2>
 
 <p align="center">
 
-<a href="https://tryhackme.com/p/YOUR_USERNAME">
+Bachelor's Degree in Computer Science
+
+Heritage Polytechnic, Nigeria
+
+</p>
+
+---
+
+<h2 align="center">🚀 Practice Platforms</h2>
+
+<p align="center">
+
+<a href="https://tryhackme.com">
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
 </a>
 
-<a href="https://app.hackthebox.com/profile/YOUR_USER_ID">
-<img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
+<a href="https://www.hackthebox.com">
+<img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
 </a>
 
 <a href="https://portswigger.net/web-security">
-<img src="https://img.shields.io/badge/PortSwigger-Web%20Security%20Academy-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/PortSwigger_Web_Security-Academy-FF6633?style=for-the-badge"/>
 </a>
+
+<a href="https://www.netacad.com">
+<img src="https://img.shields.io/badge/Cisco_Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-<p align="center">  <h2>GitHub Analytics<h2/>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" height="180"/> </p>
+<h2 align="center">💼 Featured Projects</h2>
+
+| Project | Description |
+|------------|--------------------------------|
+| 🔴 Web Application Security Lab | Hands-on penetration testing lab |
+| 🔴 Network Vulnerability Assessment | Network enumeration and analysis |
+| 🔴 Linux Hardening Guide | Practical Linux security configurations |
+| 🔴 Python Security Scripts | Automation for cybersecurity tasks |
+| 🔴 DevOps Security Projects | CI/CD security and container hardening |
 
 ---
 
-
-<h2><p align="center">Tools & Technologies <p/><h2/>
+<h2 align="center">📊 GitHub Statistics</h2>
 
 <p align="center">
 
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+<h2 align="center">🎯 Current Focus</h2>
+
+<p align="center">
+
+🔴 Offensive Security
+
+🔴 Web Application Penetration Testing
+
+🔴 Active Directory Security
+
+🔴 Bug Bounty Hunting
+
+🔴 DevSecOps
+
+🔴 Full Stack Development
+
+🔴 Continuous Learning & Hands-on Practice
+
+</p>
+
+---
+
+<h2 align="center">💡 Motto</h2>
+
+<p align="center">
+
+<i>"Security is not a product, but a continuous process of learning, testing, and improving."</i>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</p>![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge)
 
 </p>
