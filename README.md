@@ -60,7 +60,7 @@ I am committed to building secure systems, contributing to the cybersecurity com
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://x.com/YOUR_X_USERNAME">
+<a href="https://x.com/Treasureoffixal">
 <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
