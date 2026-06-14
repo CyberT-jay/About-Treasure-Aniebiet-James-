@@ -155,7 +155,7 @@ HND in Computer Science - Heritage Polytechnic, Nigeria
 
 <h2 align="center">Featured Projects</h2>
 
-| Project | Description |
+| Project | Link |
 |------------|--------------------------------|
 | 🔴 Web Application Security Lab | Hands-on penetration testing lab |
 | 🔴 Network Vulnerability Assessment | Network enumeration and analysis |
