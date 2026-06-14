@@ -18,13 +18,25 @@ DevOps Learning Path | Full Stack Development Learning Path
 <h2 align="center">About Me</h2>
 
 <p align="center">
+I am a Cybersecurity Analyst with a strong interest in Offensive Security, Penetration Testing, and Security Operations. I enjoy identifying vulnerabilities, analyzing threats, and continuously developing practical skills through hands-on labs and real-world projects.
 
-Cybersecurity enthusiast with a strong passion for Offensive Security,
-Penetration Testing, and Ethical Hacking.
+My career journey has been diverse and has shaped my analytical thinking, leadership, and problem-solving abilities.
 
-Currently expanding my expertise through hands-on labs, Capture The Flag
-challenges, and real-world projects while also learning DevOps and
-Full Stack Development to better understand modern application security.
+- Studied Computer Science, building a solid foundation in programming, networking, databases, and system administration.
+- Worked as a Teacher, developing excellent communication, mentoring, and technical training skills.
+- Served as an Inventory Controller, managing stock accuracy, documentation, data analysis, and operational processes.
+- Worked as an Operations Supervisor, leading teams, improving workflows, ensuring compliance, and coordinating daily operations.
+- Transitioned into Cybersecurity, focusing on Offensive Security, Network Security, Vulnerability Assessment, and Security Best Practices.
+- Currently expanding my expertise in Full-Stack Web Development to better understand modern applications and strengthen my web security assessment capabilities.
+
+I believe that cybersecurity is more than finding vulnerabilities—it's about understanding systems, people, and processes. My multidisciplinary background enables me to approach security challenges from both technical and business perspectives.
+
+
+### Professional Philosophy
+
+> "Continuous learning, practical experience, and curiosity are the foundation of effective cybersecurity."
+
+I am committed to building secure systems, contributing to the cybersecurity community, and continuously improving my technical and leadership skills while pursuing advanced security certifications and real-world experience..
 
 </p>
 
