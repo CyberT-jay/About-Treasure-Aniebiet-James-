@@ -5,7 +5,7 @@
 <h1 align="center">🟥 Treasure Aniebiet James</h1>
 
 <h3 align="center">
-Cybersecurity Analyst | Offensive Security | Penetration Testing |
+Cybersecurity Engineering | Offensive Security | Penetration Testing |
 DevOps Learning Path | Full Stack Development Learning Path
 </h3>
 
@@ -69,7 +69,8 @@ I am committed to building secure systems, contributing to the cybersecurity com
 ---
 ---
 ---
-
+---
+---
 <h2 align="center">Skills</h2>
 
 <p align="center">
@@ -186,18 +187,13 @@ HND in Computer Science - Heritage Polytechnic, Nigeria
 ---
 ---
 
-<h2/><p align="center">My Belief<h2/>
-<p align="center">
-  "Security is not learned by watching, it is learned by breaking and rebuilding."
-
-<small>"Not a one time thing, but a continuous process of learning, testing, and improving."<small/>
+<p align="center">My Belief<p align="center">Security is not learned by watching, it is learned by breaking and rebuilding.
+Not a one time thing, but a continuous process of learning, testing, and improving.
 <p/>
 
 ---
 ---
 
-<p align="center">
-
-Thanks for visiting my profile!
+<p align="center">Thanks for visiting my profile!
 <p/>
 
