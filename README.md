@@ -194,6 +194,6 @@ Not a one time thing, but a continuous process of learning, testing, and improvi
 ---
 ---
 
-<p align="center">Thanks for visiting my profile! ©CyberT-jay 2026
+<p align="center">Thanks for visiting my profile! <br /> <br />  ©CyberT-jay 2026
 <p/>
 
