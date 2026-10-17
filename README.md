@@ -6,12 +6,11 @@
 <h1 align="center">Treasure Aniebiet James</h1>
 
 <h3 align="center">
-Cybersecurity Analyst | Offensive Security | Penetration Testing |
-DevSecOps Learning Path | Full Stack Development Learning Path
+Cybersecurity | Offensive Security | Penetration Testing | IT Support 
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=850&lines=Offensive+Security+%7C+Red+Team+Mindset;Penetration+Testing+%7C+Ethical+Hacking;DevSecOps+Learning+Path+%7C+Full+Stack+Development;Hands-on+Labs+%7C+CTFs+%7C+Continuous+Learning;Building+Real+Skills+Through+Practice;Welcome+to+CyberT-Jay's+Portfolio+🤝" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=FF0000&center=true&vCenter=true&width=850&lines=Offensive+Security+%7C+Red+Team+Mindset;Penetration+Testing+%7C+Ethical+Hacking;Hands-on+Labs+%7C+CTFs+%7C+Continuous+Learning;Building+Real+Skills+Through+Practice;Welcome+to+my+Portfolio+🤝" />
 </p>
 
 ---
@@ -24,19 +23,19 @@ I am a Cybersecurity Analyst with a strong interest in Offensive Security, Penet
 
 My career journey has been diverse and has shaped my analytical thinking, leadership, and problem-solving abilities.
 
-- Studied Computer Science, building a solid foundation in programming, networking, databases, and system administration.
+- Studied Computer Science, building a solid foundation in IT Support, networking, databases, and system administration.
 - Worked as a Teacher, developing excellent communication, mentoring, and technical training skills.
 - Served as an Inventory Controller, managing stock accuracy, documentation, data analysis, and operational processes.
 - Worked as an Operations Supervisor, leading teams, improving workflows, ensuring compliance, and coordinating daily operations.
 - Transitioned into Cybersecurity, focusing on Offensive Security, Network Security, Vulnerability Assessment, and Security Best Practices.
 - Currently expanding my expertise in Full-Stack Web Development to better understand modern applications and strengthen my web security assessment capabilities.
 
-I believe that cybersecurity is more than finding vulnerabilities—it's about understanding systems, people, and processes. My multidisciplinary background enables me to approach security challenges from both technical and business perspectives.
+I believe that cybersecurity is more than finding vulnerabilities, it's about understanding systems, people, and processes. My multidisciplinary background enables me to approach security challenges from both technical and business perspectives.
 
 
 ### Professional Philosophy
 
-> "Continuous learning, practical experience, and curiosity are the foundation of effective cybersecurity."
+> "Continuous learning, practical experience, and curiosity are the foundation of growth."
 
 I am committed to building secure systems, contributing to the cybersecurity community, and continuously improving my technical and leadership skills while pursuing advanced security certifications and real-world experience..
 
@@ -84,7 +83,7 @@ I am committed to building secure systems, contributing to the cybersecurity com
 
 🔴 Network Security
 
-🔴 Web Application Security
+🔴 Web Application Security and Testing 
 
 🔴 Vulnerability Assessment
 
@@ -96,7 +95,7 @@ I am committed to building secure systems, contributing to the cybersecurity com
 
 🔴 Git & GitHub
 
-🔴 DevSecOps Fundamentals
+🔴 IT Support 
 
 🔴 Full Stack Development (Learning)
 
@@ -109,7 +108,19 @@ I am committed to building secure systems, contributing to the cybersecurity com
 
 <p align="center">
 
+🥇 Operating Systems Support - Cisco Networking Academy - 2026
+
+🥇 IT Support Basis - Cisco Networking Academy - 2026
+
 🥇 Ethical Hacker Certificate - Cisco Networking Academy
+
+🥇 Ethical Hacking - Techcrush - 2026
+
+🥇 Information Protection Administrator Associate (SC-400) - Digital Skills Nigeria - 2026
+
+🥇 Project Management - The British Project Management, England - 2022
+
+🥇 Human Resource Management - Rayn Wesley Institution of Management - 2022
 
 </p>
 
@@ -120,7 +131,7 @@ I am committed to building secure systems, contributing to the cybersecurity com
 
 <p align="center">
 
-HND in Computer Science - Heritage Polytechnic, Nigeria
+HND in Computer Science - Heritage Polytechnic, Nigeria - 2021
 
 </p>
 
@@ -154,13 +165,12 @@ HND in Computer Science - Heritage Polytechnic, Nigeria
 
 <h2 align="center">Featured Projects</h2>
 
-| Project | Link |
+| Project |
 |------------|--------------------------------|
 | 🔴 Web Application Security Lab | Hands-on penetration testing lab |
 | 🔴 Network Vulnerability Assessment | Network enumeration and analysis |
 | 🔴 Linux Hardening Guide | Practical Linux security configurations |
 | 🔴 Python Security Scripts | Automation for cybersecurity tasks |
-| 🔴 DevOps Security Projects | CI/CD security and container hardening |
 
 ---
 ---
@@ -175,13 +185,9 @@ HND in Computer Science - Heritage Polytechnic, Nigeria
 
 🔴 Web Application Penetration Testing
 
-🔴 Cloud Penetration Testing
-
 🔴 Active Directory Security
 
-🔴 DevSecOps
-
-🔴 Full Stack Development
+🔴 IT Support 
 
 🔴 Continuous Learning & Hands-on Practice
 
@@ -189,14 +195,9 @@ HND in Computer Science - Heritage Polytechnic, Nigeria
 
 ---
 ---
-
-<p align="center">Security is not learned by watching, it is learned by breaking and rebuilding.
-Not a one time thing, but a continuous process of learning, testing, and improving.
-<p/>
-
 ---
 ---
 
-<p align="center">Thanks for visiting my profile! <br /> <br />  ©CyberT-jay 2026
+<p align="center">Thank you for visiting my profile! <br /> <br />  ©CyberT-jay 2026
 <p/>
 
