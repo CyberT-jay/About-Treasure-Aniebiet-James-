@@ -162,16 +162,6 @@ HND in Computer Science - Heritage Polytechnic, Nigeria - 2021
 
 ---
 ---
-
-<h2 align="center">Featured Projects</h2>
-
-| Project |
-|------------|--------------------------------|
-| 🔴 Web Application Security Lab | Hands-on penetration testing lab |
-| 🔴 Network Vulnerability Assessment | Network enumeration and analysis |
-| 🔴 Linux Hardening Guide | Practical Linux security configurations |
-| 🔴 Python Security Scripts | Automation for cybersecurity tasks |
-
 ---
 ---
 
